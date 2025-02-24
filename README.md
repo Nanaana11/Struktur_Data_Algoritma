@@ -1,2 +1,2 @@
 # Struktur_Data_Algoritma
-Tugas Struktur Data dan Algoritma
+Struktur Data dan Algoritma dengan bahasa C
