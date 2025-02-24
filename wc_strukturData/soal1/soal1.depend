@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1740406503 source:c:\users\triana\documents\kuliah\tugas\semester2\wc_strukturdata\soal1\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+
